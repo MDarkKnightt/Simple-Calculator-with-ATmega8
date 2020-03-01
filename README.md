@@ -6,3 +6,5 @@ In this project:
 	C = '*'
 	D = '/'
 	* = Clear screen
+
+Write this program with WinAVR-20100110 Compiler & CodeBlocks ide.
